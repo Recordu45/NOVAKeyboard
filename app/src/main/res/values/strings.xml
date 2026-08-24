@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">NOVA Keyboard</string>
+
+    <string name="subtype_english">English</string>
+
+    <string name="subtype_hindi">Hindi</string>
+
+</resources>
